@@ -21,4 +21,4 @@ Inicie o expo:
 
 * Amanda Grazielle Mendes da Silva RM95456
 * João Victor Jales RM94673
-* Vitor Moreira dos Santos RM93101
+* Vitor dos Santos Moreira RM93101
