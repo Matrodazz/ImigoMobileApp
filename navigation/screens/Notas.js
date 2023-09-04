@@ -196,7 +196,7 @@ const styles = StyleSheet.create({
     borderColor: '#F2F2F2', 
     borderRadius: 18, 
     padding: 20,
-    minWidth: 500,
+    minWidth: 160,
   },
 
   noteTitulo: {

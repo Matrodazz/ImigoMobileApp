@@ -95,7 +95,7 @@ const styles = StyleSheet.create({
     borderColor: '#F2F2F2', 
     borderRadius: 18, 
     padding: 20,
-    minWidth: 400,
+    minWidth: 160,
     
   },
 
