@@ -1352,10 +1352,10 @@
   "resolved" "https://registry.npmjs.org/@expo/config-types/-/config-types-48.0.0.tgz"
   "version" "48.0.0"
 
-"@expo/config@~8.0.0", "@expo/config@8.0.2":
-  "integrity" "sha512-WubrzTNNdAXy1FU8TdyQ7D9YtDj2tN3fWXDq+C8In+nB7Qc08zwH9cVdaGZ+rBVmjFZBh5ACfObKq/m9cm4QQA=="
-  "resolved" "https://registry.npmjs.org/@expo/config/-/config-8.0.2.tgz"
-  "version" "8.0.2"
+"@expo/config@~8.0.0", "@expo/config@8.0.5":
+  "integrity" "sha512-3CnLmtAQUWqLZwTRliS23QoFwdyhg4AWtp6gZ0qfcXthR84RvlZKcCDQQIyPiRUgu8dZa+gQDcdRJtgE+GM5XQ=="
+  "resolved" "https://registry.npmjs.org/@expo/config/-/config-8.0.5.tgz"
+  "version" "8.0.5"
   dependencies:
     "@babel/code-frame" "~7.10.4"
     "@expo/config-plugins" "~6.0.0"
@@ -4412,13 +4412,13 @@
   "version" "1.4.4"
 
 "expo@*", "expo@^48.0.17", "expo@~48.0.18":
-  "integrity" "sha512-Pmz2HEwcDdjWPq5fM3vF++je0hjZIBX9aTZEkm6sBv09Vfhe4+CuiuKDq3iE+N6G9l2+eFYoRCApDwLqcRMiPA=="
-  "resolved" "https://registry.npmjs.org/expo/-/expo-48.0.19.tgz"
-  "version" "48.0.19"
+  "integrity" "sha512-SDRlLRINWWqf/OIPaUr/BsFZLhR5oEj1u9Cn06h1mPeo8pqv6ei/QTSZql4e0ixHIu3PWMPrUx9k/47nnTyTpg=="
+  "resolved" "https://registry.npmjs.org/expo/-/expo-48.0.20.tgz"
+  "version" "48.0.20"
   dependencies:
     "@babel/runtime" "^7.20.0"
     "@expo/cli" "0.7.3"
-    "@expo/config" "8.0.2"
+    "@expo/config" "8.0.5"
     "@expo/config-plugins" "6.0.2"
     "@expo/vector-icons" "^13.0.0"
     "babel-preset-expo" "~9.3.2"
